@@ -1,5 +1,10 @@
 # Modelos-Clasificacion-Patatas
 Modelos de clasificación (machine learning) para clasificar 20 variedades de papas nativas
+- KNN
+- Naive Bayes
+- Decision Three
+- Multilayer Perceptron (Red Neuronal)
+
 **Nombre del dataset:** Variaciones de papas en formato de píxeles
 
 **Descripción:**
@@ -12,4 +17,3 @@ Este dataset contiene información de 20 variedades de papas. Cada variedad est�
 - Etiquetas de surcos y entradas: Cada fila del archivo CSV está etiquetada con el número de surco y entrada correspondiente.
 - Total de imágenes: En cada entrada hay mas de 30 imágenes de un tubérculo de papa.
 - Valores de los píxeles: Los valores en cada celda del archivo CSV representan la intensidad del brillo del píxel en escala de grises, donde 0 indica un píxel negro y 255 indica un píxel blanco.
-> A continuacion un modelo del dataset en descripcion:
